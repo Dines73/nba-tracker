@@ -1,0 +1,14 @@
+{
+  "name": "nba-api",
+  "version": "1.0.0",
+  "description": "nba mock api",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "edin",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

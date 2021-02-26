@@ -1,0 +1,36 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Kawhi Leonard",
+      "team": "LA Clippers",
+      "soll_1": 1,
+      "ist_1": 1,
+      "datum1": "260221"
+    },
+    {
+      "id": 2,
+      "name": "Kyrie Irving",
+      "team": "Brooklyn Nets",
+      "soll_1": 1,
+      "ist_1": 1,
+      "datum1": "260221"
+    },
+    {
+      "id": 1,
+      "name": "Kriss Middleton",
+      "team": "Millwaukee Bucks",
+      "soll_1": 1,
+      "ist_1": 1,
+      "datum1": "260221"
+    },
+    {
+      "id": 1,
+      "name": "Luka Doncic",
+      "team": "Dallas Mavs",
+      "soll_1": 1,
+      "ist_1": 1,
+      "datum1": "260221"
+    }
+  ]
+}
