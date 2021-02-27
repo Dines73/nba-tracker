@@ -36,7 +36,7 @@ function App() {
               <td>{player.team}</td>
               <td>{player.soll_1}</td>
               <td>{player.ist_1}</td>
-              <td>{player.datum}</td>
+              <td>{player.datum1}</td>
             </tr>
           ))}
         </tbody>
